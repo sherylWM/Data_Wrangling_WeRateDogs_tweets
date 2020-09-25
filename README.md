@@ -13,6 +13,7 @@ Goal: Gather, clean and assess data collected from WeRateDogs twitter account us
 5. Created tweet_info dataframe to store data read from tweet_json.txt file. (tweet_id, favorites, retweets, created_date attributes were fetched)
 6. Created tweets_archive dataframe to store data read from twitter-archive-enhanced.csv file.
 
+### Other files
 wrangle_act.ipynb file was created to perform data wrangling (Gather, Assess, Clean) and later exploratory data analysis. 
 Some of the questions answered as a part of the EDA process are:
 1. What can you analyze about favorites and retweets and do dog ratings have an impact on these?
@@ -24,6 +25,4 @@ Data visualization was performed to display a line chart plot to show the trend 
 
 wrangle_report.html contains all the Data wrangling steps and efforts taken to wrangle the data for exploratory data analysis and data visualization.
 act_report.html contains all findings and insights gathered from exploratory data analysis and the data visualization.
-
-
 
